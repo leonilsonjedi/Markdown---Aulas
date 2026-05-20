@@ -10,6 +10,6 @@
 * sudo apt install (instala aplicativos baixados no sistema ou em repositorios previamente instalados)
 ## windows
 
-## Informações
+## Informações complementares
 
 
